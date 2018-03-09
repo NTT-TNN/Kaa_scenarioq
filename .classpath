@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/nguyentienthao/Desktop/kaa_jar/bson-3.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/nguyentienthao/Desktop/kaa_jar/json-20140107.jar"/>
+	<classpathentry kind="lib" path="/Users/nguyentienthao/Desktop/kaa_jar/mongodb-driver-3.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/nguyentienthao/Desktop/kaa_jar/mongodb-driver-core-3.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/nguyentienthao/Desktop/kaa_jar/mqtt-client-1.7-uber.jar"/>
+	<classpathentry kind="lib" path="/Users/nguyentienthao/Desktop/kaa_jar/slf4j-simple-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/nguyentienthao/Downloads/kaa-java-ep-sdk-KyHuaX8LxnHNtBFNYHQGfIUI6VY.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
